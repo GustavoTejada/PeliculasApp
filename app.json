@@ -1,0 +1,12 @@
+{
+  "name": "PeliculasApp",
+  "displayName": "PeliculasApp",
+  "expo": {
+    "name": "PeliculasApp",
+    "slug": "PeliculasApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
