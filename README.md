@@ -1,6 +1,6 @@
 # PeliculasApp
 Aplicación de películas en React Native
-
+Expo: https://expo.dev/@gustavotejada/PeliculasApp
 
 ![Screenshot_20210908-145341_Expo_Go](https://user-images.githubusercontent.com/45311587/132560376-49e3883d-b3ec-4e47-85a4-427c30a96daf.jpg)
 ![Screenshot_20210908-145347_Expo_Go](https://user-images.githubusercontent.com/45311587/132560405-5bf9c082-0f05-4879-bd05-24fffbffdfaf.jpg)
